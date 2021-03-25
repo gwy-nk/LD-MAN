@@ -12,7 +12,7 @@ We propose a layout-driven multimodal attention network (LD-MAN) to recognize ne
 ## Installation
 
 - [x] [Original dataset](https://github.com/Gyaya/LD-MAN/tree/main/dataset).
-- [ ] Code (to be uploaded). 
+- [ ] Code (Implemented based on the Hierarchical Attention Network. To be uploaded). 
 
 
 ## Citation
