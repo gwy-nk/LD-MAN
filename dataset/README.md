@@ -8,7 +8,7 @@ There are two newly collected datasets in our paper, i.e., RON and DMON.
 
 ### Note
 As stated in our paper, the DMON dataset is collected from the Daily Mail website. 
-You can expand the dataset according to the given [urls]().
+You can expand the dataset according to the given [urls](https://github.com/Gyaya/LD-MAN/blob/main/dataset/DMON/DM.csv).
 And labels for the RON dataset are crawled from the Rappler website. The labels may change as uses click. You can update the emotion labels according to the urls given in the dataset.
 
 ### TODO
