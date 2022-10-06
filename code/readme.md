@@ -9,7 +9,7 @@
 
 ## Installation
 
-1. Download the checkpoints and preprocessed data from XXX. 
+1. Download the checkpoints and preprocessed data: [ckpt](https://pan.baidu.com/s/1Tti39gAHnjYT0OrF6deAhw)(Extraction code: ```uoae```); [data](https://pan.baidu.com/s/1phGdJTGiMdexYNaljjm1gA)(Extraction code: ```2qmc```); [glove](https://pan.baidu.com/s/1EONiX9YV8CmunMKikPBLTA)(Extraction code: ```h1e4```)
 2. Put the files in corresponding folders.
 
 
